@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TeymurAsk
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning Javascript to then learn React as my new front-end framework
