@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on a platform for restaraunt owners to find staff in a matter of minutes
+I'm a CS student located in Warsaw, since 2020 i coding and creating some small programs for myself. Right now, I focus on developing my skills as a backend dev.
 
 
 # 💻 Tech Stack:
