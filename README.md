@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a CS student located in Warsaw, since 2020 i coding and creating some small programs for myself. Right now, I focus on developing my skills as a backend dev.
+I'm a CS student located in Warsaw. Starting from 2020 I program and create some small programs for myself. Right now, I focus on developing my skills as a backend dev.
 
 
 # 💻 Tech Stack:
