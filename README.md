@@ -1,3 +1,10 @@
+# Hey there, I'm Teymur Asgarkhanov
+
++ 💻 I've been coding for the last 4 years.
++ 🎓 I'm a Computer Science student located in Warsaw.
++ 🎯 I'm using C# and Go in my Backend projects.
++ 🏗️ Currently working on Web Crawler and ENS. 
+
 # 💫 About Me:
 I'm a CS student located in Warsaw. Starting from 2020 I program and create some small programs for myself. Right now, I focus on developing my skills as a backend dev.
 
