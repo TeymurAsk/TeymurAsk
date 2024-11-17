@@ -3,7 +3,7 @@
 + 💻 I've been coding for the last 4 years.
 + 🎓 I'm a Computer Science student located in Warsaw.
 + 🎯 I'm using C# and Go in my Backend projects.
-+ 🏗️ Currently working on Web Crawler and ENS. 
++ 🏗️ Currently working on Web Crawler and Voice Commentator for Dota2 . 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TeymurAsk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
